@@ -45,7 +45,7 @@ class queue
         }
         return arr[front];
     }
-    bool isEmoty()
+    bool isEmpty()
     {
         return front==-1||front>rear;
     }
