@@ -20,6 +20,7 @@ void sort(int* arr,int size)
             break;
         }
     }
+    
 }
 int main()
 {
