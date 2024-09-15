@@ -64,7 +64,7 @@ class queue
 int main()
 {
     int size;
-    cout<<"Enter the size of the queue"<<endl;
+    cout<<"Enter the size of the queue : "<<endl;
     cin>>size;
     queue q(size);
     int x;
