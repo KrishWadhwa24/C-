@@ -17,7 +17,6 @@ void sort(int* arr,int size)
         }
         if(!swap)
         {
-            cout<<"sorted"<<endl;
             break;
         }
     }
